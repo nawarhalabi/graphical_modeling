@@ -13,6 +13,8 @@
   * La Liga 2017-18 match results analysis.
   * Gaussian Mixture Models (with synthestic data).
   * Rib Fracture prediction (with anonymised data).
+  * Pareto NBD for customer lifetime value prediction (with synthetic data).
+  * and more...
   
 # Requirements
   * PyStan: Wrapper for Stan modeling library for python.
